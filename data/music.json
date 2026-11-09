@@ -1,0 +1,182 @@
+[
+ {
+  "n": 1,
+  "title": "Speak to Me",
+  "bpm_raw": 112.3,
+  "bpm_candidates": [
+   56.2,
+   112.3,
+   224.7
+  ],
+  "acf": [
+   0.211,
+   0.233,
+   0.163
+  ],
+  "bpm_pick": 112.3,
+  "key": "C# minor",
+  "key_corr": 0.309
+ },
+ {
+  "n": 2,
+  "title": "Breathe (In the Air)",
+  "bpm_raw": 129.2,
+  "bpm_candidates": [
+   64.6,
+   129.2,
+   258.4
+  ],
+  "acf": [
+   0.321,
+   0.342,
+   -0.0
+  ],
+  "bpm_pick": 129.2,
+  "key": "A major",
+  "key_corr": 0.797
+ },
+ {
+  "n": 3,
+  "title": "On the Run",
+  "bpm_raw": 83.4,
+  "bpm_candidates": [
+   41.7,
+   83.4,
+   166.7
+  ],
+  "acf": [
+   0.662,
+   0.854,
+   0.595
+  ],
+  "bpm_pick": 83.4,
+  "key": "D major",
+  "key_corr": 0.425
+ },
+ {
+  "n": 4,
+  "title": "Time",
+  "bpm_raw": 136.0,
+  "bpm_candidates": [
+   68.0,
+   136.0,
+   272.0
+  ],
+  "acf": [
+   0.237,
+   0.418,
+   0.283
+  ],
+  "bpm_pick": 136.0,
+  "key": "C# minor",
+  "key_corr": 0.763
+ },
+ {
+  "n": 5,
+  "title": "The Great Gig in the Sky",
+  "bpm_raw": 129.2,
+  "bpm_candidates": [
+   64.6,
+   129.2,
+   258.4
+  ],
+  "acf": [
+   0.102,
+   0.121,
+   -0.008
+  ],
+  "bpm_pick": 129.2,
+  "key": "G major",
+  "key_corr": 0.669
+ },
+ {
+  "n": 6,
+  "title": "Money",
+  "bpm_raw": 136.0,
+  "bpm_candidates": [
+   68.0,
+   136.0,
+   272.0
+  ],
+  "acf": [
+   0.131,
+   0.336,
+   -0.152
+  ],
+  "bpm_pick": 136.0,
+  "key": "B minor",
+  "key_corr": 0.495
+ },
+ {
+  "n": 7,
+  "title": "Us and Them",
+  "bpm_raw": 143.6,
+  "bpm_candidates": [
+   71.8,
+   143.6,
+   287.1
+  ],
+  "acf": [
+   0.508,
+   0.381,
+   -0.122
+  ],
+  "bpm_pick": 71.8,
+  "key": "D major",
+  "key_corr": 0.798
+ },
+ {
+  "n": 8,
+  "title": "Any Colour You Like",
+  "bpm_raw": 152.0,
+  "bpm_candidates": [
+   76.0,
+   152.0,
+   304.0
+  ],
+  "acf": [
+   0.247,
+   0.442,
+   0.067
+  ],
+  "bpm_pick": 152.0,
+  "key": "D major",
+  "key_corr": 0.603
+ },
+ {
+  "n": 9,
+  "title": "Brain Damage",
+  "bpm_raw": 136.0,
+  "bpm_candidates": [
+   68.0,
+   136.0,
+   272.0
+  ],
+  "acf": [
+   0.193,
+   0.262,
+   0.111
+  ],
+  "bpm_pick": 136.0,
+  "key": "D major",
+  "key_corr": 0.884
+ },
+ {
+  "n": 10,
+  "title": "Eclipse",
+  "bpm_raw": 136.0,
+  "bpm_candidates": [
+   68.0,
+   136.0,
+   272.0
+  ],
+  "acf": [
+   0.117,
+   0.155,
+   0.044
+  ],
+  "bpm_pick": 136.0,
+  "key": "D minor",
+  "key_corr": 0.76
+ }
+]

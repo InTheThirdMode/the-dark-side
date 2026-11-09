@@ -1,0 +1,132 @@
+{
+ "file": {
+  "path": "C:\\Users\\BlueGold\\Music\\The Dark Side of the Moon.flac",
+  "duration": 2576.0,
+  "sample_rate": 44100,
+  "channels": 2
+ },
+ "head_silence": 5.5,
+ "tail_silence": 8.5,
+ "tracks": [
+  {
+   "n": 1,
+   "title": "Speak to Me",
+   "start": 5.5,
+   "end": 72.5,
+   "dur": 67,
+   "lufs_i": -21.9,
+   "peak_db": -5.27,
+   "rms_db": -22.8,
+   "crest": 17.52,
+   "centroid_hz": 1588.4
+  },
+  {
+   "n": 2,
+   "title": "Breathe (In the Air)",
+   "start": 72.5,
+   "end": 241.5,
+   "dur": 169,
+   "lufs_i": -14.5,
+   "peak_db": -3.64,
+   "rms_db": -18.7,
+   "crest": 15.07,
+   "centroid_hz": 2174.6
+  },
+  {
+   "n": 3,
+   "title": "On the Run",
+   "start": 241.5,
+   "end": 456.5,
+   "dur": 215,
+   "lufs_i": -16.9,
+   "peak_db": -4.1,
+   "rms_db": -20.72,
+   "crest": 16.62,
+   "centroid_hz": 2603.2
+  },
+  {
+   "n": 4,
+   "title": "Time",
+   "start": 456.5,
+   "end": 869.5,
+   "dur": 413,
+   "lufs_i": -13.4,
+   "peak_db": -2.21,
+   "rms_db": -18.14,
+   "crest": 15.93,
+   "centroid_hz": 2633.1
+  },
+  {
+   "n": 5,
+   "title": "The Great Gig in the Sky",
+   "start": 869.5,
+   "end": 1153.5,
+   "dur": 284,
+   "lufs_i": -15.1,
+   "peak_db": -4.62,
+   "rms_db": -21.42,
+   "crest": 16.79,
+   "centroid_hz": 2541.8
+  },
+  {
+   "n": 6,
+   "title": "Money",
+   "start": 1153.5,
+   "end": 1536.5,
+   "dur": 383,
+   "lufs_i": -13.0,
+   "peak_db": -2.77,
+   "rms_db": -18.44,
+   "crest": 15.67,
+   "centroid_hz": 2700.5
+  },
+  {
+   "n": 7,
+   "title": "Us and Them",
+   "start": 1536.5,
+   "end": 2005.5,
+   "dur": 469,
+   "lufs_i": -16.6,
+   "peak_db": -4.12,
+   "rms_db": -21.34,
+   "crest": 17.22,
+   "centroid_hz": 2377.3
+  },
+  {
+   "n": 8,
+   "title": "Any Colour You Like",
+   "start": 2005.5,
+   "end": 2211.5,
+   "dur": 206,
+   "lufs_i": -13.6,
+   "peak_db": -2.74,
+   "rms_db": -17.53,
+   "crest": 14.8,
+   "centroid_hz": 1770.9
+  },
+  {
+   "n": 9,
+   "title": "Brain Damage",
+   "start": 2211.5,
+   "end": 2437.5,
+   "dur": 226,
+   "lufs_i": -16.3,
+   "peak_db": -3.1,
+   "rms_db": -20.56,
+   "crest": 17.45,
+   "centroid_hz": 2801.6
+  },
+  {
+   "n": 10,
+   "title": "Eclipse",
+   "start": 2437.5,
+   "end": 2567.5,
+   "dur": 130,
+   "lufs_i": -12.5,
+   "peak_db": -2.69,
+   "rms_db": -17.63,
+   "crest": 14.93,
+   "centroid_hz": 2735.3
+  }
+ ]
+}
